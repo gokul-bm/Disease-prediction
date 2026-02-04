@@ -77,15 +77,7 @@ The best-performing model is selected based on accuracy and evaluation metrics.
 
 ---
 
-## ⚠️ Disclaimer
-This system is for **educational purposes only** and should not be used as a substitute for professional medical advice.
-
----
-
 ## 📚 Conclusion
-The Disease Prediction System successfully applies machine learning techniques to healthcare data, providing accurate disease predictions based on symptoms. This project is suitable for **machine learning coursework, final-year projects, and portfolio demonstration**.
+The Disease Prediction System successfully applies machine learning techniques to healthcare data, providing accurate disease predictions based on symptoms.
 
 ---
-
-## 👨‍💻 Author
-GOKUL B M
